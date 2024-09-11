@@ -18,9 +18,48 @@ Here are some ideas to get you started:
 </div>
 <!-- <img src="https://i.imgur.com/weNbhGZ.png"> -->
 
-## About me
+## About me / Acerca de mi
+I am a software developer in progress, I finished my university studies and now I wish to enter the job market. Currently, I work in another field, and for the moment, I have no work experience. I invite you to take a look at some of my projects! Please note that some of the projects are solely to demonstrate knowledge on a specific topic and will not have a Graphical User Interface (GUI).
+- Web developer
 
-- 🖥 Web developer
+Soy un desarrollador de software en progreso, finalicé mis estudios en la universidad y ahora deseo ingresar al mercado laboral, actualmente trabajo en otra área, por el momento no tengo experiencia laboral, así que te invito a dar un vistazo a algunos de mis proyectos! Ten en cuenta que algunos de los proyectos son únicamente para demostrar conocimiento en un tema en especifico y no tendrán Interfaz Gráfica de Usuario (GUI)
+<table>
+  <tr>
+    <td>
+      <h5>Áreas de Conocimiento</h5>
+    </td>
+    <td>
+      <h5>Lenguajes Utilizados</h5>
+    </td>
+    <td>
+      <h5>Frameworks</h5>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <p> - Desarrollo Web </p>
+      <p> - Desarrollador Backend </p>
+      <p> - Desarrollador Frontend </p>
+      <p> - Conocimiento en Base de Datos Relacional </p>
+      <p> - Desarrollo de Aplicaciones de Escritorio </p>
+    </td>
+    <td>
+      <p> - PHP </p>
+      <p> - Java </p>
+      <p> - C# </p>
+      <p> - Python </p>
+      <p> - HTML / CSS / Javascript </p>
+    </td>
+    <td>
+      <p> - Laravel </p>
+      <p> - Spring Boot </p>
+      <p> - .Net core </p>
+      <p> - Django </p>
+      <p> - React </p>
+    </td>
+  </tr>
+</table>
+
 <br>
 
 ## Projects (IN PROGRESS)
