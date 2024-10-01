@@ -62,7 +62,7 @@ Soy un desarrollador de software en progreso, finalicé mis estudios en la unive
 
 <br>
 
-## Projects (IN PROGRESS)
+<!-- ## Projects (IN PROGRESS)
 
 <table>
   <tr>
@@ -131,7 +131,7 @@ Soy un desarrollador de software en progreso, finalicé mis estudios en la unive
     </div>
   </td>
 </table>
-
+-->
 <br>
 
 ### ⚙️ &nbsp;GitHub Analytics
